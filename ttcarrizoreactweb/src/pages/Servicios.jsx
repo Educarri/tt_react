@@ -6,7 +6,9 @@ function Servicios() {
     <div>
         <h1>Servicios</h1>
         <hr />
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odio velit corrupti in aspernatur officia debitis praesentium ab veritatis vel, eligendi reiciendis? Suscipit, libero aliquam est nisi itaque saepe temporibus doloribus?
+        <p> Pagina en construcción. 
+          
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odio velit corrupti in aspernatur officia debitis praesentium ab veritatis vel, eligendi reiciendis? Suscipit, libero aliquam est nisi itaque saepe temporibus doloribus?
       
         Odio debitis nam placeat assumenda distinctio quam ratione. Totam illo, voluptatum eaque consectetur neque animi commodi saepe nihil odio qui? Soluta exercitationem, quibusdam nostrum tempora natus eos expedita excepturi molestias.
         Mollitia quam quod fuga eum rem, cupiditate culpa eos, natus officia sunt sapiente quas a quisquam rerum eveniet cumque! Consequatur quas fuga consequuntur est quis debitis aliquid illo odit eligendi!
