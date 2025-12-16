@@ -1,2 +1,2 @@
-# tt_react
-Pre entrega React Talento Tech
+# Talento Tech react
+Entrega React Talento Tech
